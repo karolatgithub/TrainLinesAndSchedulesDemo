@@ -1,4 +1,5 @@
 Aplikacje nalezy zaimportowac do Eclipse (wymagana java 8x).
+Nalezy zweryfikowac czy ustawiona jest strona kodowa UTF-8.
 Aby uruchomoic, nalezy prawym klawiszem myszki uruchomic plik
 
 TrainLinesAndSchedulesDemo/src/main/java/com/example/demo/TrainLinesAndSchedulesDemoApplication.java
