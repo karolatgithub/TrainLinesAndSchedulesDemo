@@ -1,4 +1,4 @@
-Aplikacje nalezy zaimportowac do Eclipse (wymagana java 8x).
+Aplikacje nalezy zaimportowac do Eclipse (wymagana java 1.8x).
 Nalezy zweryfikowac czy ustawiona jest strona kodowa UTF-8.
 Aby uruchomoic, nalezy prawym klawiszem myszki uruchomic plik
 
